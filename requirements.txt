@@ -1,0 +1,6 @@
+customtkinter
+icalendar
+recurring-ical-events
+requests
+gTTS
+tzdata
